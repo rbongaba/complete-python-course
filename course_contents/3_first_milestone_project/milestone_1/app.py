@@ -13,6 +13,8 @@ def add_movie():
         'year': year
     })
 
+    #check here
+
 
 def show_movies():
     for movie in movies:

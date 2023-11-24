@@ -14,7 +14,7 @@
 
 <p align = "center">💡 A 35-hour mega course to take you from beginner to advanced in Python.</p>
 
-## Getting started
+## Getting started now
 
 Enrol in the course by going to [this link](https://go.tecla.do/cpc).
 
